@@ -5,7 +5,7 @@ public class SumPractice {
   public static void main(String args[])
   {
 
-    System.out.println("I have done this commit at github server")
+  //  System.out.println("I have done this commit at github server")
   }
 
 }
